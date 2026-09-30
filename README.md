@@ -18,7 +18,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/marlonferreira1800-hue?label=Seguidores&style=for-the-badge&color=0969da&logo=github)](https://github.com/marlonferreira1800-hue?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=marlonferreira1800-hue&color=00d2ff&style=for-the-badge&label=VISITAS+AO+PERFIL)](https://github.com/marlonferreira1800-hue)
 [![Live Demo](https://img.shields.io/badge/Acessar_Online-asclepio--br.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://asclepio-br.netlify.app)
-[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonferreira1800@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 </div>
 

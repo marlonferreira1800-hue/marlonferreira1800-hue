@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Marlon%20Ferreira&fontSize=52&fontColor=ffffff&animation=fadeIn&subtext=Software%20Engineer%20%7C%20AI%20%26%20Multi-Agent%20Systems%20%7C%20HealthTech&subfontSize=18&subfontColor=e0e0e0" width="100%"/>
+  <img src="banner.jpg" alt="Marlon Ferreira - Artificial Intelligence, HealthTech & Big Data" width="100%" style="border-radius: 10px;" />
+</div>
+
+<div align="center">
+  <h1>Marlon Ferreira</h1>
+  <p><b>Software Engineer | AI & Multi-Agent Systems | HealthTech & Medical Computing</b></p>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Engenheiro+de+Software+%26+Desenvolvedor+de+IA;Especialista+em+Sistemas+Multi-Agentes+%26+LLMs;Criador+do+Ecossistema+Ascl%C3%A9pio+(HealthTech);Python+%E2%80%A2+FastAPI+%E2%80%A2+Three.js+%E2%80%A2+Computer+Vision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Desenvolvedor+de+IA+%26+Engenheiro+de+Software;Especialista+em+Sistemas+Multi-Agentes+%26+LLMs;Criador+do+Ecossistema+Ascl%C3%A9pio+(HealthTech);Python+%E2%80%A2+FastAPI+%E2%80%A2+Three.js+%E2%80%A2+Vis%C3%A3o+Computacional" alt="Typing SVG" />
   </a>
 </div>
 
@@ -155,8 +160,6 @@ Fique à vontade para explorar os repositórios ou entrar em contato!
 [![Netlify Demo](https://img.shields.io/badge/Netlify-asclepio--br.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://asclepio-br.netlify.app)
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,1&height=100&section=footer" width="100%"/>
 
 <sub>© Marlon Ferreira — Inovação contínua em Inteligência Artificial, Computação Visual & Saúde Digital</sub>
 

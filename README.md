@@ -31,7 +31,7 @@ Engenheiro de Software e desenvolvedor focado na intersecção entre **Inteligê
 - 🔭 **Atualmente desenvolvendo:** O ecossistema **Asclépio** — unindo triagem clínica com agentes inteligentes ([asclepio.br](https://github.com/marlonferreira1800-hue/asclepio.br)), tutoria médica imersiva com avatares 3D ([asclepio-tutor](https://github.com/marlonferreira1800-hue/asclepio-tutor)) e biometria ótica com visão computacional ([asclepio.face](https://github.com/marlonferreira1800-hue/asclepio.face)).
 - 🧠 **Especialidades:** Arquiteturas Multi-Agentes, Modelos de Linguagem (LLMs), Guardrails Clínicos Determinísticos, FastAPI e Computação Gráfica Web com Three.js.
 - 🎯 **Foco de Engenharia:** Código desacoplado, testes automatizados, rigor ético-legal e alto desempenho em tempo real.
-- 📫 **Contato:** [marlonferreira1800@gmail.com](mailto:marlonferreira1800@gmail.com)
+- 💬 **Interesses:** Sistemas Inteligentes, Saúde Digital, Python, Three.js e Open Source.
 
 ---
 
@@ -155,7 +155,6 @@ Engenheiro de Software e desenvolvedor focado na intersecção entre **Inteligê
 Interessado em **sistemas inteligentes, saúde digital ou desenvolvimento open source**?  
 Fique à vontade para explorar os repositórios ou entrar em contato!
 
-[![Email](https://img.shields.io/badge/Email-marlonferreira1800%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlonferreira1800@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-marlonferreira1800--hue-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonferreira1800-hue)
 [![Netlify Demo](https://img.shields.io/badge/Netlify-asclepio--br.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://asclepio-br.netlify.app)
 

@@ -26,12 +26,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Engenheiro de Software e desenvolvedor focado na intersecção entre **Inteligência Artificial, Sistemas Multi-Agentes, Computação Gráfica 3D e Saúde Digital**.
+Sou engenheiro de software e construo sistemas de IA para a área da saúde. Junto agentes inteligentes, visão computacional e gráficos 3D na web para deixar triagem, estudo e acompanhamento clínico mais acessíveis, seguros e fáceis de usar.
 
-- 🔭 **Atualmente desenvolvendo:** O ecossistema **Asclépio** — unindo triagem clínica com agentes inteligentes ([asclepio.br](https://github.com/marlonferreira1800-hue/asclepio.br)), tutoria médica imersiva com avatares 3D ([asclepio-tutor](https://github.com/marlonferreira1800-hue/asclepio-tutor)) e biometria ótica com visão computacional ([asclepio.face](https://github.com/marlonferreira1800-hue/asclepio.face)).
-- 🧠 **Especialidades:** Arquiteturas Multi-Agentes, Modelos de Linguagem (LLMs), Guardrails Clínicos Determinísticos, FastAPI e Computação Gráfica Web com Three.js.
-- 🎯 **Foco de Engenharia:** Código desacoplado, testes automatizados, rigor ético-legal e alto desempenho em tempo real.
-- 💬 **Interesses:** Sistemas Inteligentes, Saúde Digital, Python, Three.js e Open Source.
+- 🔭 **No momento:** desenvolvendo o ecossistema **Asclépio**, com três frentes: triagem clínica com agentes ([asclepio.br](https://github.com/marlonferreira1800-hue/asclepio.br)), tutoria médica com professor 3D ([asclepio-tutor](https://github.com/marlonferreira1800-hue/asclepio-tutor)) e biometria ótica com visão computacional ([asclepio.face](https://github.com/marlonferreira1800-hue/asclepio.face)).
+- 🧠 **No que sou forte:** sistemas multi-agentes, LLMs, guardrails clínicos determinísticos (para evitar alucinações), FastAPI e Three.js.
+- 🎯 **Como eu trabalho:** código desacoplado, testes automatizados, atenção a ética e privacidade, e desempenho em tempo real.
+- 🌱 **Sempre explorando:** novas ferramentas de IA, automação e projetos open source. Mantenho também uma coleção de skills e plugins para educação e medicina ([asclepio-skills-and-plugins](https://github.com/marlonferreira1800-hue/asclepio-skills-and-plugins)).
+- 🤝 **Vamos conversar:** se você trabalha com saúde digital, IA aplicada ou open source, fique à vontade para chamar.
 
 ---
 

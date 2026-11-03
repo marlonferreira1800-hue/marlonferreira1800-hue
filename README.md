@@ -31,7 +31,7 @@ Sou engenheiro de software e construo sistemas de IA para a área da saúde. Jun
 - 🔭 **No momento:** desenvolvendo o ecossistema **Asclépio**, com três frentes: triagem clínica com agentes ([asclepio.br](https://github.com/marlonferreira1800-hue/asclepio.br)), tutoria médica com professor 3D ([asclepio-tutor](https://github.com/marlonferreira1800-hue/asclepio-tutor)) e biometria ótica com visão computacional ([asclepio.face](https://github.com/marlonferreira1800-hue/asclepio.face)).
 - 🧠 **No que sou forte:** sistemas multi-agentes, LLMs, guardrails clínicos determinísticos (para evitar alucinações), FastAPI e Three.js.
 - 🎯 **Como eu trabalho:** código desacoplado, testes automatizados, atenção a ética e privacidade, e desempenho em tempo real.
-- 🌱 **Sempre explorando:** novas ferramentas de IA, automação e projetos open source. Mantenho também uma coleção de skills e plugins para educação e medicina ([asclepio-skills-and-plugins](https://github.com/marlonferreira1800-hue/asclepio-skills-and-plugins)).
+- 🌱 **Contribuidor Open Source:** código submetido e mantido para **Anthropic** ([anthropics/skills](https://github.com/anthropics/skills)) e **Nous Research** ([NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)), além de skills e plugins para o ecossistema ([asclepio-skills-and-plugins](https://github.com/marlonferreira1800-hue/asclepio-skills-and-plugins)).
 - 🤝 **Vamos conversar:** se você trabalha com saúde digital, IA aplicada ou open source, fique à vontade para chamar.
 
 ---
@@ -96,6 +96,53 @@ Sou engenheiro de software e construo sistemas de IA para a área da saúde. Jun
           <img src="https://img.shields.io/badge/👁️_Ver_Projeto-asclepio.face-darkgreen?style=for-the-badge&logo=github"/>
         </a>
       </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Contribuições Open Source em IA de Ponta (Anthropic & Nous Research)
+
+Contribuidor ativo de código no ecossistema global de modelos de fronteira e agentes autônomos:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/anthropics/skills">
+          <img src="https://img.shields.io/badge/Anthropic-anthropics%2Fskills-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Skills"/>
+        </a>
+      </h3>
+      <p align="center">
+        <b>Framework Oficial de Skills & Ferramentas do Claude</b><br/>
+        <a href="https://github.com/anthropics/skills"><code>anthropics/skills</code></a> • <a href="https://github.com/marlonferreira1800-hue/skills"><code>fork & PRs</code></a>
+      </p>
+      <ul>
+        <li><b>Framework de Evals (#2084):</b> Simetria de threshold e limiar de não-disparo em <code>run_eval</code> para testes de intenção de LLMs.</li>
+        <li><b>Interoperabilidade Windows/POSIX (#1815, #1805):</b> Resolução de schemas Office/XML e limpeza de partes PPTX no Windows.</li>
+        <li><b>Formulários PDF (#1819):</b> Validação defensiva de múltiplos estados em checkboxes dinâmicos.</li>
+        <li><b>Multimídia & Concorrência (#2070, #1811, #1870):</b> Snapshot defensivo NumPy contra race conditions e precisão de timing em GIFs.</li>
+        <li><b>Docs & Specs (#2076, #2104, #2090):</b> Quebra tipográfica CJK (Kinsoku) e documentação de sincronização com claude.ai.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/NousResearch/hermes-agent">
+          <img src="https://img.shields.io/badge/Nous_Research-hermes--agent-8B5CF6?style=for-the-badge&logo=probot&logoColor=white" alt="Hermes Agent"/>
+        </a>
+      </h3>
+      <p align="center">
+        <b>Agente Autônomo de IA de Nova Geração</b><br/>
+        <a href="https://github.com/NousResearch/hermes-agent"><code>NousResearch/hermes-agent</code></a> • <a href="https://github.com/marlonferreira1800-hue/hermes-agent"><code>fork & PRs</code></a>
+      </p>
+      <ul>
+        <li><b>Resiliência de Gateway & Windows SCM (#148204):</b> Fallback gracioso para <code>WinError 5</code> no SCM durante updates sem privilégios de admin.</li>
+        <li><b>Integridade de Tool Calling (#148158):</b> Preservação de argumentos acumulados contra eventos truncados de finalização de stream.</li>
+        <li><b>Ciclo de Vida Assíncrono (#148172):</b> Fechamento de corrotinas órfãs (<code>unawaited coroutine</code>) no relay de inferência.</li>
+        <li><b>Hardware Runtime & GPU Probing (#148249):</b> Fallback via CLI para detecção de GPUs caso carregamento de DLL falhe.</li>
+        <li><b>Segurança & Concorrência (#148241, #148262):</b> Respeito a <code>SSL_CERT_FILE</code> no httpx e propagação de flags de rede no <code>uv</code>.</li>
+      </ul>
     </td>
   </tr>
 </table>

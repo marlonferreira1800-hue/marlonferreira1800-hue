@@ -206,6 +206,18 @@ Contribuidor ativo de código no ecossistema global de modelos de fronteira e ag
 
 </div>
 
+#### 📜 Certificados de cursos
+
+<div align="center">
+
+[![Anthropic - Introduction to Agent Skills](https://img.shields.io/badge/Anthropic-Introduction_to_Agent_Skills-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/g5rotxpaksuu)
+
+[![FIAP - Python Developer](https://img.shields.io/badge/FIAP-Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=74A3BC2A248644CAFA258BE60D17B5A4&action=view)
+
+[![Alura - Análise de Dados e IA](https://img.shields.io/badge/Alura-An%C3%A1lise_de_Dados_e_IA-007BFF?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/marlonmouraferreira/fullCertificate/0ae9c4716b10afd195d72a4ecc4d2af9)
+
+</div>
+
 ---
 
 ### 📊 Estatísticas & Atividade no GitHub

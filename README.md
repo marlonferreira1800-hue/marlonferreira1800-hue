@@ -198,6 +198,16 @@ Contribuidor ativo de código no ecossistema global de modelos de fronteira e ag
 
 ---
 
+### 🏅 Certificações
+
+<div align="center">
+
+[![DataCamp - AI Engineer for Developers Associate](https://img.shields.io/badge/DataCamp-AI_Engineer_for_Developers_Associate-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/certificate/AIEDA0017680954294)
+
+</div>
+
+---
+
 ### 📊 Estatísticas & Atividade no GitHub
 
 <div align="center">

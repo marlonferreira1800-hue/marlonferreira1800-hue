@@ -98,6 +98,23 @@ Sou engenheiro de software e construo sistemas de IA para a área da saúde. Jun
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="3" valign="top">
+      <h3 align="center">🎯 MedAsclepio</h3>
+      <p align="center">
+        <b>Protótipo de plataforma de estudo de medicina, com trilhas, lições em slides e simulados.</b>
+      </p>
+      <p align="center">
+        Projeto de portfólio em desenvolvimento.
+      </p>
+      <br/>
+      <p align="center">
+        <a href="https://duolingo-medicina.vercel.app/">
+          <img src="https://img.shields.io/badge/🚀_Testar_demonstração-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---

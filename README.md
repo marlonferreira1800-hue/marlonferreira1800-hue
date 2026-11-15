@@ -119,6 +119,45 @@ Sou engenheiro de software e construo sistemas de IA para a área da saúde. Jun
 
 ---
 
+### 🌾 Projetos em Desenvolvimento — Fazendinha 2D (Fazenda Asclepio)
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🌾 Fazendinha 2D — Cozy Farming & Agente Fazendeiro Autônomo (Godot 4.7.2)</h3>
+      <p align="center">
+        <b>Simulador de fazenda pixel art 16x16 com IA autônoma in-game, áudio procedural, ciclo dia/noite e deploy contínuo WebAssembly</b>
+      </p>
+      <p align="center">
+        Jogo 2D completo desenvolvido em <b>Godot 4.7.2 (GDScript)</b> com geração procedural de spritesheets e efeitos sonoros em tempo real, cultivo em 5 estágios (Trigo, Cenoura e Morango), criação de animais (Ovo e Leite), persistência (Save/Load), <b>Modo Fazendeiro Automático (Auto / tecla P)</b> com navegação inteligente por waypoints e <b>Painel de Atualizações in-game (tecla V)</b> com rastreabilidade de Issues, Releases e comparativo <i>Antes vs. Depois</i> auditado por robô de release em 5 barreiras.
+      </p>
+      <div align="center">
+        <code>Godot 4.7.2</code> <code>GDScript</code> <code>WebAssembly / HTML5</code> <code>Pixel Art 16x16</code> <code>Autonomous Agent</code> <code>Python CI/CD</code> <code>GitHub Actions</code>
+      </div>
+      <br/>
+      <p align="center">
+        <a href="https://marlonferreira1800-hue.github.io/Fazenda-asclepio-/">
+          <img src="https://img.shields.io/badge/🎮_Jogar_no_Navegador-GitHub_Pages-2ea44f?style=for-the-badge&logo=godotengine&logoColor=white" alt="Jogar Fazendinha 2D Online"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/marlonferreira1800-hue/Fazenda-asclepio-">
+          <img src="https://img.shields.io/badge/💻_Repositório-Fazenda--asclepio---181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Fazenda-asclepio-"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/marlonferreira1800-hue/Fazenda-asclepio-/releases">
+          <img src="https://img.shields.io/badge/🏷️_Versão_Atual-v1.2.0_(Releases)-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Releases v1.0.0 a v1.2.0"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/marlonferreira1800-hue/Fazenda-asclepio-/issues?q=is%3Aissue">
+          <img src="https://img.shields.io/badge/🐞_Issues_&_Changelog-Rastreabilidade-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Issues e Bugs Resolvidos"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🌐 Contribuições Open Source em IA de Ponta (Anthropic & Nous Research)
 
 Contribuidor ativo de código no ecossistema global de modelos de fronteira e agentes autônomos:

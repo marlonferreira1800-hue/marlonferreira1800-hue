@@ -119,39 +119,62 @@ Sou engenheiro de software e construo sistemas de IA para a área da saúde. Jun
 
 ---
 
-### 🌾 Projetos em Desenvolvimento — Fazendinha 2D (Fazenda Asclepio)
+### 🛠️ Portfólio de Projetos em Desenvolvimento & Engenharia de Enxames de Agentes (Multi-Agent Swarms)
+
+Além do ecossistema clínico **Asclépio**, desenvolvo ferramentas autônomas, agentes de navegador, plataformas educacionais, automação editorial e jogos experimentais orquestrados por **Enxames de Agentes de IA Estruturados (Multi-Agent Swarms)**:
 
 <table>
   <tr>
-    <td width="100%" valign="top">
-      <h3 align="center">🌾 Fazendinha 2D — Cozy Farming & Agente Fazendeiro Autônomo (Godot 4.7.2)</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 Fazendinha 2D (Fazenda Asclepio)</h3>
       <p align="center">
-        <b>Simulador de fazenda pixel art 16x16 com IA autônoma in-game, áudio procedural, ciclo dia/noite e deploy contínuo WebAssembly</b>
+        <b>Cozy Farming 16x16 & Case de Engenharia com Enxame de Agentes (Godot 4.7.2)</b>
       </p>
       <p align="center">
-        Jogo 2D completo desenvolvido em <b>Godot 4.7.2 (GDScript)</b> com geração procedural de spritesheets e efeitos sonoros em tempo real, cultivo em 5 estágios (Trigo, Cenoura e Morango), criação de animais (Ovo e Leite), persistência (Save/Load), <b>Modo Fazendeiro Automático (Auto / tecla P)</b> com navegação inteligente por waypoints e <b>Painel de Atualizações in-game (tecla V)</b> com rastreabilidade de Issues, Releases e comparativo <i>Antes vs. Depois</i> auditado por robô de release em 5 barreiras.
+        Um dos projetos em desenvolvimento ativo no portfólio: jogo 2D em <b>Godot 4.7.2 (GDScript + WebAssembly)</b> com <b>Modo Fazendeiro Automático (Auto / tecla P)</b>, áudio procedural, criação de animais, Save/Load e <b>Painel de Versões in-game (tecla V)</b> com comparativo <i>Antes vs. Depois</i>.<br/><br/>
+        <b>🤖 Destaque em Orquestração Multi-Agente:</b> Arquitetado e dirigido por <b>Marlon Ferreira</b> coordenando um enxame estruturado de agentes especializados (<code>assets-scout</code>, <code>core-dev</code>, <code>world-dev</code>, <code>ui-dev</code>, <code>verifier</code> e <code>publisher</code>) + robô gatekeeper de release em 5 barreiras (<code>auto_release_bot.py</code>), unindo curadoria de recursos gratuitos em 6 plataformas (<b>itch.io</b>, <b>Kenney</b>, <b>CraftPix</b>, <b>OpenGameArt</b>, <b>GameDev Market</b> e <b>Game Developer Studio</b>) ao deploy contínuo no GitHub Pages.
       </p>
       <div align="center">
-        <code>Godot 4.7.2</code> <code>GDScript</code> <code>WebAssembly / HTML5</code> <code>Pixel Art 16x16</code> <code>Autonomous Agent</code> <code>Python CI/CD</code> <code>GitHub Actions</code>
+        <code>Godot 4.7.2</code> <code>GDScript</code> <code>Multi-Agent Swarm</code> <code>WebAssembly</code> <code>CI/CD Bot</code>
       </div>
       <br/>
       <p align="center">
         <a href="https://marlonferreira1800-hue.github.io/Fazenda-asclepio-/">
-          <img src="https://img.shields.io/badge/🎮_Jogar_no_Navegador-GitHub_Pages-2ea44f?style=for-the-badge&logo=godotengine&logoColor=white" alt="Jogar Fazendinha 2D Online"/>
+          <img src="https://img.shields.io/badge/🎮_Jogar_Online-GitHub_Pages-2ea44f?style=for-the-badge&logo=godotengine&logoColor=white" alt="Jogar Fazendinha 2D Online"/>
         </a>
-        &nbsp;
         <a href="https://github.com/marlonferreira1800-hue/Fazenda-asclepio-">
           <img src="https://img.shields.io/badge/💻_Repositório-Fazenda--asclepio---181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Fazenda-asclepio-"/>
         </a>
-        &nbsp;
         <a href="https://github.com/marlonferreira1800-hue/Fazenda-asclepio-/releases">
-          <img src="https://img.shields.io/badge/🏷️_Versão_Atual-v1.2.0_(Releases)-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Releases v1.0.0 a v1.2.0"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/marlonferreira1800-hue/Fazenda-asclepio-/issues?q=is%3Aissue">
-          <img src="https://img.shields.io/badge/🐞_Issues_&_Changelog-Rastreabilidade-d97706?style=for-the-badge&logo=github&logoColor=white" alt="Issues e Bugs Resolvidos"/>
+          <img src="https://img.shields.io/badge/🏷️_Releases-v1.0_→_v1.2-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Releases"/>
         </a>
       </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Outros Repositórios & Sistemas em Desenvolvimento</h3>
+      <p align="center">
+        <b>Agentes Autônomos, AI Browser, Skills & Ciência de Dados</b>
+      </p>
+      <ul>
+        <li>
+          <b><a href="https://github.com/marlonferreira1800-hue/agente-asclepio">agente-asclepio</a>:</b> Desenvolvedor de IA autônomo e solucionador de problemas de ponta a ponta integrado ao motor Hermes Agent e Gemini Pro.
+        </li>
+        <li>
+          <b><a href="https://github.com/marlonferreira1800-hue/asclepio-skills-and-plugins">asclepio-skills-and-plugins</a>:</b> Coleção de plugins e skills para agentes de IA focada em educação médica, aprendizagem ativa (<i>Cognitus</i>, <i>MedQuest</i>, <i>MedTermo AI</i>) e automação.
+        </li>
+        <li>
+          <b><a href="https://github.com/marlonferreira1800-hue/Navegador-asclepio-ia">Navegador-asclepio-ia</a> (<a href="https://asclepio-ia-seven.vercel.app/">Demo</a>):</b> Asclepio AI Browser v1.0.4 — navegador desktop para Windows com agente de IA nativo integrado.
+        </li>
+        <li>
+          <b><a href="https://github.com/marlonferreira1800-hue/projetos-asclepio">projetos-asclepio</a>:</b> Monorepo de engenharia com agentes autônomos, telemetria de tokens, automação de navegador e tradução editorial.
+        </li>
+        <li>
+          <b><a href="https://github.com/marlonferreira1800-hue/decifrando-dados-newsletter">decifrando-dados-newsletter</a> (<a href="https://marlonferreira1800-hue.github.io/Decifrando-dados/">Portal</a>):</b> Ecossistema oficial da newsletter <i>Decifrando Dados</i> sobre Ciência de Dados, ML e IA.
+        </li>
+        <li>
+          <b><a href="https://github.com/marlonferreira1800-hue/trilha-aprendizado">trilha-aprendizado</a> & <a href="https://github.com/marlonferreira1800-hue/Apresenta-o-pessoal-">Portfólio Web</a>:</b> Protótipos interativos de microlearning e apresentação de projetos (<a href="https://apresentacao-pessoal-marlon.vercel.app">apresentacao-pessoal-marlon.vercel.app</a>).
+        </li>
+      </ul>
     </td>
   </tr>
 </table>

@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Desenvolvedor+de+IA+%26+Engenheiro+de+Software;Especialista+em+Sistemas+Multi-Agentes+%26+LLMs;Criador+do+Ecossistema+Ascl%C3%A9pio+(HealthTech);Python+%E2%80%A2+FastAPI+%E2%80%A2+Three.js+%E2%80%A2+Vis%C3%A3o+Computacional" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Desenvolvedor+de+IA+%26+Engenheiro+de+Software;Especialista+em+Sistemas+Multi-Agentes+%26+LLMs;Criador+da+OpenStore+(Loja+Open+Source+de+Apps);Criador+do+Ecossistema+Ascl%C3%A9pio+(HealthTech);Python+%E2%80%A2+FastAPI+%E2%80%A2+Rust+%E2%80%A2+Tauri" alt="Typing SVG" />
   </a>
 </div>
 

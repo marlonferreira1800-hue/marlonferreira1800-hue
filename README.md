@@ -24,6 +24,31 @@
 
 ---
 
+### ⭐ Projeto em Destaque — OpenStore (loja open source de apps)
+
+<div align="center">
+  <a href="https://github.com/marlonferreira1800-hue/open-source-store">
+    <img src="https://raw.githubusercontent.com/marlonferreira1800-hue/open-source-store/main/docs/screenshots/01-catalogo-busca.png" alt="OpenStore — catálogo com busca ao vivo via API do GitHub" width="100%" style="border-radius: 10px;" />
+  </a>
+</div>
+
+A **OpenStore** é uma loja centralizada de aplicativos **open source** (app store alternativa): em vez de procurar repositório por repositório no GitHub, você **busca, instala e atualiza tudo de um só lugar**. O backend é **100% Rust com Tauri 2.0** e escolhe o instalador certo para o seu sistema (Windows/Linux/macOS), faz o download com barra de progresso e verifica a integridade **SHA-256** — e ainda tem **versão web** direto no navegador (GitHub Pages), com catálogo e busca ao vivo pela API pública do GitHub.
+
+<div align="center">
+
+[![Repositório](https://img.shields.io/badge/💻_Repositório-open--source--store-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonferreira1800-hue/open-source-store)
+[![Versão Web](https://img.shields.io/badge/🌐_Abrir_na_Web-GitHub_Pages-00D2FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://marlonferreira1800-hue.github.io/open-source-store/)
+[![Instalador](https://img.shields.io/badge/⬇️_Download-Releases-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marlonferreira1800-hue/open-source-store/releases/latest)
+[![Licença](https://img.shields.io/badge/Licença-MIT-yellow?style=for-the-badge)](https://github.com/marlonferreira1800-hue/open-source-store/blob/main/LICENSE)
+
+</div>
+
+<div align="center">
+  <code>Rust</code> <code>Tauri 2.0</code> <code>Vite</code> <code>JavaScript</code> <code>GitHub API</code> <code>GitHub Pages</code> <code>SHA-256</code>
+</div>
+
+---
+
 ### 👨‍💻 Sobre Mim
 
 Sou engenheiro de software e construo sistemas de IA para a área da saúde. Junto agentes inteligentes, visão computacional e gráficos 3D na web para deixar triagem, estudo e acompanhamento clínico mais acessíveis, seguros e fáceis de usar.
